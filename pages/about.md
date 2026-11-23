@@ -14,14 +14,14 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Books are a lot of things to a lot of people: 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+- Entertainment
+- Information
+- For Fun (because it is fun)
+- Social (like book clubs)
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+Now a days, literacy is lower, misunderstood perspectives are more common, and reading appears to some as a performative aesthetic. I wanted to share some books that I own and enjoy (and plan to enjoy more of). Some I've had since I was a teen, some are more recent, and a couple viewers may have never known existed! Whether
+you are interested in what is shown or not, the ability and freedom to read is something everyone should pursue and everyone should have the ability and accessibility to read!
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Hope you enjoy this simple collection!
