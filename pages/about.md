@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="dwfc_bca01" %}
+{% include feature/jumbotron.html objectid="https://lsis5830-2026fall.github.io/truefinal_wright_damaris/item.html?id=dwfc_b01" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
@@ -28,3 +28,6 @@ Hope you enjoy this simple collection!
 
 NOTE: A couple of the materials may lack searchable resources due to binding and the age of the book (ex. lacking ISBN or out of print). 
 
+---
+{% include feature/image.html objectid="dwfc_bca01" %}
+---
