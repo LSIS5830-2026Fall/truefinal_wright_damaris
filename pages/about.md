@@ -1,9 +1,3 @@
----
-# include CollectionBuilder info at bottom
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
----
-
 ## About the Collection
 
 Books are a lot of things to a lot of people: 
