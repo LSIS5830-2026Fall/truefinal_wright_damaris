@@ -9,7 +9,7 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid="dwfc_b01" %}
-
+{% include image.html objectid="dwfc_bca01" %}
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
@@ -27,7 +27,3 @@ you are interested in what is shown or not, the ability and freedom to read is s
 Hope you enjoy this simple collection!
 
 NOTE: A couple of the materials may lack searchable resources due to binding and the age of the book (ex. lacking ISBN or out of print). 
-
-
-{% include image.html objectid="dwfc_bca01" %}
-
