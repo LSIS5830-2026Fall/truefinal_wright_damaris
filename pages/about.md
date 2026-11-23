@@ -1,12 +1,3 @@
----
-title: About
-layout: about
-permalink: /about.html
-# include CollectionBuilder info at bottom
-credits: true
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
----
 
 ## About the Collection
 
@@ -21,3 +12,5 @@ Now a days, literacy is lower, misunderstood perspectives are more common, and r
 you are interested in what is shown or not, the ability and freedom to read is something everyone should pursue and everyone should have the ability and accessibility to read! A collection for older readers who may be interested in seeing a few titles that exist.
 
 Hope you enjoy this simple collection!
+
+NOTE: A couple of the materials may lack searchable resources due to binding and the age of the book (ex. lacking ISBN or out of print). 
