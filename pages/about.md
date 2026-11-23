@@ -1,3 +1,5 @@
+{% include feature/image.html objectid="dwfc_b08" width="75" %}
+
 ## About the Collection
 
 Books are a lot of things to a lot of people: 
@@ -14,4 +16,3 @@ Hope you enjoy this simple collection!
 
 NOTE: A couple of the materials may lack searchable resources due to binding and the age of the book (ex. lacking ISBN or out of print). 
 
-{% include feature/image.html objectid="dwfc_b08" width="75" %}
