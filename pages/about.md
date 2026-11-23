@@ -28,6 +28,6 @@ Hope you enjoy this simple collection!
 
 NOTE: A couple of the materials may lack searchable resources due to binding and the age of the book (ex. lacking ISBN or out of print). 
 
----
+
 {% include image.html objectid="dwfc_bca01" %}
----
+
